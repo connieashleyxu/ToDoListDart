@@ -1,2 +1,2 @@
 # ToDoListDart
-ITP 358: Programming Graphical User Interfaces Final Project
+USC's ITP 358: Programming Graphical User Interfaces Final Project
